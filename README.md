@@ -7,7 +7,7 @@ Front-end:
 - GraphQL
 
 Back-end:
-- Node.js with Koa.js
+- Node.js with TypeScript over Koa.js
 - GraphQL
 
 But i'm always learning new stuff!
