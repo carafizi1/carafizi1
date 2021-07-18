@@ -1,6 +1,7 @@
-### Hello. I'm Gabriel Carafizi, but mostly everyone just calls by my surname 🙆
+### Hello. I'm Gabriel Carafizi, but mostly everyone calls me by my surname and i like it 💁
 
-I'm a fullstack developer, currently working with e-commerces at ACCT, using VTEX infrastructure and i mostly use React with TypeScript & GraphQL at the front end, and Node.js with TypeScript over Koa.js & GraphQL at the back-end.
+I'm a fullstack developer, working with e-commerces at ACCT, using VTEX infrastructure.
+Currently i'm working using React with TypeScript & GraphQL at the front-end, and Node.js with TypeScript over Koa.js & GraphQL at the back-end.
 
 But overall i'm always learning new stuff & contributing to opensource projects!
 
