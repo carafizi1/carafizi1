@@ -10,6 +10,6 @@ Back-end:
 - Node.js with TypeScript over Koa.js
 - GraphQL
 
-But i'm always learning new stuff!
+But i'm always learning new stuff, and contributing to opensource projects!
 
 ![Carafizi GH contributions](https://github-readme-stats.vercel.app/api?username=carafizi1&show_icons=true&theme=radical)
