@@ -7,8 +7,8 @@ Front-end:
 - GraphQL
 
 Back-end:
-- Express / Koa.js
-- Graphql (ofc)
+- Node.js with Koa.js
+- GraphQL
 
 But i'm always learning new stuff!
 
