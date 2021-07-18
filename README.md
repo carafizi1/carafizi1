@@ -1,6 +1,6 @@
 ### Hello. I'm Gabriel Carafizi but mostly everyone call me just Carafizi
 
-# I'm a fullstack developer, currently working with e-commerces, and mostly use:
+##### I'm a fullstack developer, currently working with e-commerces, and mostly use:
 
 Front-end:
 - React with TypeScript
