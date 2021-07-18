@@ -1,6 +1,6 @@
 ### Hello. I'm Gabriel Carafizi but mostly everyone call me just Carafizi
 
-##### I'm a fullstack developer, currently working with e-commerces currently working at ACCT, using VTEX infrastructure and i mostly use:
+##### I'm a fullstack developer, currently working with e-commerces at ACCT, using VTEX infrastructure and i mostly use:
 
 Front-end:
 - React with TypeScript
@@ -12,4 +12,4 @@ Back-end:
 
 But i'm always learning new stuff!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Carafizi GH contributions](https://github-readme-stats.vercel.app/api?username=carafizi1&show_icons=true&theme=radical)
