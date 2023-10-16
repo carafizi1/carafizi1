@@ -1,2 +1,2 @@
 # Hello there 👋
-### Front-end developer, using TypeScript + React & GraphQL mainly to build Ecommerces
+### Fullstack developer, using TypeScript + React & GraphQL over Node mainly to build Ecommerces
