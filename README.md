@@ -1,10 +1,10 @@
 # Fullstack developer, mainly building Ecommerces on VTEX
 
 ### Front-end:
-Styling with Tailwind/Sass/Tachyons
-Typescript (JS superset)
-React.js running in Gatsby.js/Next.js
-API's on GraphQL/REST
+Styling with Tailwind/Sass/Tachyons <br>
+Typescript (JS superset) <br>
+React.js running in Gatsby.js/Next.js <br>
+API's on GraphQL/REST <br>
 
 ### Back-end:
 Typescript
