@@ -11,5 +11,5 @@ API's on [](https://user-images.githubusercontent.com/25181517/192107856-aa92c8b
  Express.js, Koa.js & Nest.js <br>
 API's on [](https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png)GraphQL/[](https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png)REST <br>
 
-# Most of what i write goes to private repositories
-But you can still check some fixes and features that i wrote to VTEX open-source repositories 🥹
+# Most of what i write goes to private repos 🥹
+But you can still check of my contribution to VTEX open-source codebase 
