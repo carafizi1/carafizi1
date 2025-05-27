@@ -1,7 +1,8 @@
 # Fullstack developer, mainly building Ecommerces on VTEX
 
 ### Front-end:
-Styling with Tailwind/Sass/Tachyons or just plain CSS3 <br>
+The fundamentals, HTML, CSS, JS & stuff <br>
+Styling with Tailwind/Sass/Tachyons or just plain <br>
 Typescript <br>
 React.js running in Gatsby.js/Next.js or whatever framework is trending at the moment <br>
 RESTful API's or GraphQL <br>
