@@ -2,8 +2,8 @@
 
 ### Front-end:
 The fundamentals, HTML, CSS, JS & stuff <br>
-Styling with Tailwind/Sass/Tachyons or just plain <br>
-Typescript <br>
+Styling with Tailwind/Sass/Tachyons<br>
+Typescript, of course <br>
 React.js running in Gatsby.js/Next.js or whatever framework is trending at the moment <br>
 RESTful API's or GraphQL <br>
 
